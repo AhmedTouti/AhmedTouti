@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ahmed%20Touti&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Senior%20Mobile%20%26%20Web%20Engineer&descAlignY=56&descSize=16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=180&amp;section=header&amp;text=Ahmed%20Touti&amp;fontSize=42&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=Senior%20Mobile%20&amp;Web%20Engineer&amp;descAlignY=56&amp;descSize=16" width="100%" />
 
   
 
