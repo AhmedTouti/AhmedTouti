@@ -42,7 +42,7 @@ I've worked across the full mobile development lifecycle: architecture decisions
 
   
 
-Currently based in Casablanca, Morocco. Open to senior remote roles with EU or US teams.
+Currently based in Casablanca, Morocco.
 
   
 
